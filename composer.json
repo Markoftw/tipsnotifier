@@ -1,0 +1,23 @@
+{
+  "name": "markoftw/tipsnotifier",
+  "description": "Bettingexpert tips notifier",
+  "type": "library",
+  "keywords": ["tipsnotifier", "bettingexpert"],
+  "require": {
+    "php" : ">=5.5.9",
+    "phpmailer/phpmailer": "~5.2"
+  },
+  "require-dev": {
+    "digitalnature/php-ref": "dev-master"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Marko",
+      "email": "marko@marefx.com"
+    }
+  ],
+  "autoload": {
+  },
+  "minimum-stability" : "dev"
+}
